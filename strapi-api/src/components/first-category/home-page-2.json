@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_first_category_home_page_2s",
+  "info": {
+    "displayName": "Home page 2"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Date": {
+      "type": "date"
+    }
+  }
+}
